@@ -20,7 +20,7 @@ Example available at https://mrestrepoagudelo.github.io/flexbox-tabs/
     </div>
   
     <div class="m-tab tab-close" tab-title="Tab 2">
-        <p>Content Tab 3</p>
+        <p>Content Tab 2</p>
     </div>
 
     <div class="m-tab" tab-title="Tab 3">
